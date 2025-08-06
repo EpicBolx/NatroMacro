@@ -117,3 +117,15 @@ objShell.NameSpace(WScript.Arguments(0)).CopyHere FilesInZip, 20
 set fso = nothing
 set objShell = nothing
 </script></job>
+
+
+)
+  )
+    (
+
+start "" " !folder!/sbm/autohotkey32.exe" "!folder!/submacros/natro_macro.ahk"
+
+) else ( 
+each. : : countdown to marco start echo %redhive% ["Reset"]
+ANSI ( start ) 0% natro has broke %0 :end:
+
